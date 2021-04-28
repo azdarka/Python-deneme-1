@@ -1,0 +1,1 @@
+print('Benim adım {ad}, yaşım {yas}'.format(ad='Memet',yas=16))
